@@ -1,0 +1,14 @@
+C:\Projetos\Atividades\Facul\C#\Atv\bin\Debug\net8.0\Atv.exe
+C:\Projetos\Atividades\Facul\C#\Atv\bin\Debug\net8.0\Atv.deps.json
+C:\Projetos\Atividades\Facul\C#\Atv\bin\Debug\net8.0\Atv.runtimeconfig.json
+C:\Projetos\Atividades\Facul\C#\Atv\bin\Debug\net8.0\Atv.dll
+C:\Projetos\Atividades\Facul\C#\Atv\bin\Debug\net8.0\Atv.pdb
+C:\Projetos\Atividades\Facul\C#\Atv\obj\Debug\net8.0\Atv.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Atividades\Facul\C#\Atv\obj\Debug\net8.0\Atv.AssemblyInfoInputs.cache
+C:\Projetos\Atividades\Facul\C#\Atv\obj\Debug\net8.0\Atv.AssemblyInfo.cs
+C:\Projetos\Atividades\Facul\C#\Atv\obj\Debug\net8.0\Atv.csproj.CoreCompileInputs.cache
+C:\Projetos\Atividades\Facul\C#\Atv\obj\Debug\net8.0\Atv.dll
+C:\Projetos\Atividades\Facul\C#\Atv\obj\Debug\net8.0\refint\Atv.dll
+C:\Projetos\Atividades\Facul\C#\Atv\obj\Debug\net8.0\Atv.pdb
+C:\Projetos\Atividades\Facul\C#\Atv\obj\Debug\net8.0\Atv.genruntimeconfig.cache
+C:\Projetos\Atividades\Facul\C#\Atv\obj\Debug\net8.0\ref\Atv.dll

@@ -1,0 +1,15 @@
+C:\Projetos\Atividades\Facul\C#\Atv\Atv2\bin\Debug\net8.0\Atv2.exe
+C:\Projetos\Atividades\Facul\C#\Atv\Atv2\bin\Debug\net8.0\Atv2.deps.json
+C:\Projetos\Atividades\Facul\C#\Atv\Atv2\bin\Debug\net8.0\Atv2.runtimeconfig.json
+C:\Projetos\Atividades\Facul\C#\Atv\Atv2\bin\Debug\net8.0\Atv2.dll
+C:\Projetos\Atividades\Facul\C#\Atv\Atv2\bin\Debug\net8.0\Atv2.pdb
+C:\Projetos\Atividades\Facul\C#\Atv\Atv2\obj\Debug\net8.0\Atv2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Atividades\Facul\C#\Atv\Atv2\obj\Debug\net8.0\Atv2.AssemblyInfoInputs.cache
+C:\Projetos\Atividades\Facul\C#\Atv\Atv2\obj\Debug\net8.0\Atv2.AssemblyInfo.cs
+C:\Projetos\Atividades\Facul\C#\Atv\Atv2\obj\Debug\net8.0\Atv2.csproj.CoreCompileInputs.cache
+C:\Projetos\Atividades\Facul\C#\Atv\Atv2\obj\Debug\net8.0\Atv2.sourcelink.json
+C:\Projetos\Atividades\Facul\C#\Atv\Atv2\obj\Debug\net8.0\Atv2.dll
+C:\Projetos\Atividades\Facul\C#\Atv\Atv2\obj\Debug\net8.0\refint\Atv2.dll
+C:\Projetos\Atividades\Facul\C#\Atv\Atv2\obj\Debug\net8.0\Atv2.pdb
+C:\Projetos\Atividades\Facul\C#\Atv\Atv2\obj\Debug\net8.0\Atv2.genruntimeconfig.cache
+C:\Projetos\Atividades\Facul\C#\Atv\Atv2\obj\Debug\net8.0\ref\Atv2.dll

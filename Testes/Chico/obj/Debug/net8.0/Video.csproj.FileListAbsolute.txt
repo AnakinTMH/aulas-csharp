@@ -1,0 +1,15 @@
+C:\Projetos\Atividades\Facul\C#\Video\bin\Debug\net8.0\Video.exe
+C:\Projetos\Atividades\Facul\C#\Video\bin\Debug\net8.0\Video.deps.json
+C:\Projetos\Atividades\Facul\C#\Video\bin\Debug\net8.0\Video.runtimeconfig.json
+C:\Projetos\Atividades\Facul\C#\Video\bin\Debug\net8.0\Video.dll
+C:\Projetos\Atividades\Facul\C#\Video\bin\Debug\net8.0\Video.pdb
+C:\Projetos\Atividades\Facul\C#\Video\obj\Debug\net8.0\Video.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Atividades\Facul\C#\Video\obj\Debug\net8.0\Video.AssemblyInfoInputs.cache
+C:\Projetos\Atividades\Facul\C#\Video\obj\Debug\net8.0\Video.AssemblyInfo.cs
+C:\Projetos\Atividades\Facul\C#\Video\obj\Debug\net8.0\Video.csproj.CoreCompileInputs.cache
+C:\Projetos\Atividades\Facul\C#\Video\obj\Debug\net8.0\Video.sourcelink.json
+C:\Projetos\Atividades\Facul\C#\Video\obj\Debug\net8.0\Video.dll
+C:\Projetos\Atividades\Facul\C#\Video\obj\Debug\net8.0\refint\Video.dll
+C:\Projetos\Atividades\Facul\C#\Video\obj\Debug\net8.0\Video.pdb
+C:\Projetos\Atividades\Facul\C#\Video\obj\Debug\net8.0\Video.genruntimeconfig.cache
+C:\Projetos\Atividades\Facul\C#\Video\obj\Debug\net8.0\ref\Video.dll
